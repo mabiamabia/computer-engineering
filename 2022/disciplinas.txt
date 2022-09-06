@@ -2,30 +2,9 @@ Onboarding
 Português 
 Matemática 
 
-Primeiro semestre de 2022: 
--
--
--
--
--
-
-Segundo semestre de 2022: 
--
--
--
--
--
-
-Terceiro semestre de 2022: 
--
--
--
--
--
-
 Quarto semestre de 2022: 
--
--
--
--
--
+- Arquitetura de Computadores do Século XXI
+- Análise de Cenários Econômicos
+- Criação de Aplicações e Sistemas
+- Análise e levantamento de Requisitos de Software
+- Planejamento de Carreira
