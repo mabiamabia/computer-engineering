@@ -1,27 +1,46 @@
+----------------------------------------------------------------------------------------
 Primeiro semestre de 2023: 
--
--
--
--
--
 
+2A - Object-Oriented Developer
+-Programação Extrema
+-Design de Software
+-Eletroeletrônica
+
+2B - DB Developer
+-Desenvolvimento de Aplicações de Banco de Dados
+-Prática Integradora Desenvolvimento de Software
+----------------------------------------------------------------------------------------
 Segundo semestre de 2023: 
--
--
--
--
--
 
-Terceiro semestre de 2023: 
--
--
--
--
--
+3A - Smart Data Structures
+-Metodologias de Desenvolvimento de Software
+-Matemática Diferencial Aplicada
+-Estruturas de Dados para Sistemas Inteligentes
 
+3B - Mobile Developer
+-Desenvolvimento Mobile
+-Prática Integradora Desenvolvimento de Apps
+
+----------------------------------------------------------------------------------------
+Terceiro semestre de 2023:
+
+4A - Local Area Network
+-Solução de Problemas com Integrais
+-Soluções Tecnológicas para Cloud e Redes
+-Administração de Redes Locais
+
+4B - Global Network
+-Infraestrutura de Redes Globais
+-Prática Integradora Administração de Redes
+----------------------------------------------------------------------------------------
 Quarto semestre de 2023: 
--
--
--
--
--
+
+5A - Cloud Platform
+-Geometria Analítica e Sistemas Lineares
+-Plataformas para Desenvolvimento na Nuvem
+-Sistemas Digitais e Microprocessadores
+
+5B - Internet das Coisas
+-Internet das Coisas
+-Prática Integradora Computação em Nuvem
+----------------------------------------------------------------------------------------

@@ -3,8 +3,13 @@ Português
 Matemática 
 
 Quarto semestre de 2022: 
+
+1A - (Arquitetura e Organização de Computadores)
 - Arquitetura de Computadores do Século XXI
 - Análise de Cenários Econômicos
+- Planejamento de Carreira
+
+1B - Programming Basics
 - Criação de Aplicações e Sistemas
 - Análise e levantamento de Requisitos de Software
-- Planejamento de Carreira
+

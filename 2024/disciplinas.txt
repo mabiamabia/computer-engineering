@@ -1,23 +1,30 @@
 Primeiro semestre de 2024: 
--
--
--
--
--
+6A - Governança Digital 4.0
+-Gerenciamento Avançado de Projetos
+-Fenômenos de Transportes
+-Governança de TI integrada à Gestão Estratégica
+
+6B - CyberSecurity
+-Segurança Tecnológica
+-Prática Integradora Governança e Segurança
 
 Segundo semestre de 2024: 
--
--
--
--
--
+7A - Interfaces Responsivas
+-Desenvolvendo Soluções Web Responsivas com UX
+-Ciência, Tecnologia e Sociedade
+
+7B - User Experience
+-Empreendedorismo e Criação de Novos Negócios
+-Prática Integradora Sistema UX
 
 Terceiro semestre de 2024: 
--
--
--
--
--
+8A - Inteligência Artificial Aplicada
+-Formação Social e Sustentabilidade
+-Desenvolvimento de Algoritmos de Inteligência Artificial
+
+8B - Tuning de BD
+-Tuning de Banco de Dados
+-Prática Integradora Tecnologias Disruptivas
 
 Quarto semestre de 2024: 
 -
